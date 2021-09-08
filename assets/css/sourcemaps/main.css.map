@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAiHA,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,cAAc;CACtB",
+    "sources": [
+        "main.scss",
+        "utilities/_variables.scss",
+        "template-parts/_homepage.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
