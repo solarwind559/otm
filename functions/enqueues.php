@@ -11,11 +11,8 @@ if ( ! function_exists('otm_theme_enqueues') ) {
 		wp_register_style('swiper', get_template_directory_uri() . '/assets/css/swiper.min.css', false, '4.5.0');
 		wp_enqueue_style('swiper');
 
-		wp_register_style('main', get_template_directory_uri() . '/assets/scss/main.css', false, null);
+		wp_register_style('main', get_template_directory_uri() . '/assets/css/main.css', false, null);
 		wp_enqueue_style('main');
-		//change it back to this:
-		// wp_register_style('main', get_template_directory_uri() . '/assets/css/main.css', false, null);
-		// wp_enqueue_style('main');
 
 		// Scripts
 
