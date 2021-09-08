@@ -2,7 +2,9 @@
 
   <div class="footer-top d-flex">
       <div class="footer-logo">
-        <div class="logo"><?php dynamic_sidebar('footer-logo'); ?></div>
+        <div class="logo"><?php dynamic_sidebar('footer-logo'); ?>
+          <img src="wp-content/themes/OTM-WP-THEME-2.0-MASTER/assets/img/footer-logo.png" alt="">
+        </div>
         
         <div class="contact-info">
           <p>Paper Point LLC</p>

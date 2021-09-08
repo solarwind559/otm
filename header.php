@@ -24,6 +24,7 @@
             <a href="<?php echo esc_url( home_url( '/' ) )?>">
               <!-- <?php echo otm_site_logo('primary'); ?> -->
               <?php echo otm_custom_logo(); ?>
+              <img src="wp-content/themes/OTM-WP-THEME-2.0-MASTER/assets/img/nav-logo.png" alt="">
             </a>
           </a>
         </div>
